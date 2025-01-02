@@ -1,0 +1,21 @@
+Personal Website
+
+# sidebar
+
+
+# navbar
+
+About
+Resume
+Project
+Photography
+Contact
+
+# about
+# service
+# testimonials
+# clients
+# resume
+# Project
+# Photography
+# contact
